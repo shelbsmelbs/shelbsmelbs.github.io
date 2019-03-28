@@ -1,2 +1,2 @@
-# shelbsmelbs.gethub.io
+# shelbsmelbs.github.io
 A practice page to start
